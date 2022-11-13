@@ -1,0 +1,12 @@
+References
+
+https://en.wikipedia.org/wiki/Association_rule_learning
+https://blogs.oracle.com/datascience/overview-of-traditional-machine-learning-techniques https://stackabuse.com/association-rule-mining-via-apriori-algorithm-in-python/
+https://www.datasciencecentral.com/profiles/blogs/data-mining-association-rules-in-r-diapers-and-beer
+https://pyshark.com/market-basket-analysis-using-association-rule-mining-in-python/
+https://www.veribilimiokulu.com/python-ile-birliktelik-kurallari-analizi-association-rules-analysis-with-python/
+https://www.mygreatlearning.com/blog/apriori-algorithm-explained/
+https://machinelearningmastery.com/how-to-one-hot-encode-sequence-data-in-python/
+https://stackabuse.com/association-rule-mining-via-apriori-algorithm-in-python/
+https://towardsdatascience.com/introduction-to-simple-association-rules-mining-for-market-basket-analysis-ef8f2d613d87
+https://medium.com/@antonio.tab22/market-basket-analysis-fce453fa96fa
